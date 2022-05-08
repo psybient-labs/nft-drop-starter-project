@@ -1,0 +1,22 @@
+Beginning the upload for 10 (img+json) pairs
+started at: 1651201538828
+initializing candy machine
+Candy machine address:  dPW1ShhJKuwNhJiRCyXmur9FYQfHGjDBzvbDTrjC5Tz
+Collection metadata address:  F8qywtHBKbwjgVy1oHdtpjBzAUT2JNNYM7MYU5Q3AC2b
+Collection metadata authority:  63CPWNqeG82e3UE63Fw1voNY1AkrpSs3GLRB2nxZB7Db
+Collection master edition address:  AHqxNYSuJUvY42vJZK7ofG5RZRa6v5p7B7QiG4NR1tv9
+Collection mint address:  HwvhjAMGbtZBuKYtdFhC72XoG45HZgM4sRJLbHYtUaFn
+Collection PDA address:  C8vQfYCGSn7ER4AhfVfZvGVCCn2TPbLMpc3xxDXybpGF
+Collection authority record address:  3WxdWDwrkLGM15jUWteBDu2KypxLZFwtUC7yXPDSHiXt
+Collection:  {
+  collectionMetadata: 'F8qywtHBKbwjgVy1oHdtpjBzAUT2JNNYM7MYU5Q3AC2b',
+  collectionPDA: 'C8vQfYCGSn7ER4AhfVfZvGVCCn2TPbLMpc3xxDXybpGF',
+  txId: '2KxrESC5Yy5GPfEfHAiHpLuvhbNewjc8SB2QxhVCZTY21tWk5h886z7YJGDJyTvEPjwoXajWFoNwiefxZjPh1H5Y'
+}
+initialized config for a candy machine with publickey: dPW1ShhJKuwNhJiRCyXmur9FYQfHGjDBzvbDTrjC5Tz
+[0] out of [10] items have been uploaded
+Starting upload for [10] items, format {"mediaExt":".png","index":"0"}
+Progress: [████████████████████████████████████████] 100% | 10/10
+Writing all indices in 1 transactions...
+Progress: [████████████████████████████████████████] 100% | 1/1
+Done. Successful = true.-9*- 
